@@ -1,1 +1,2 @@
-Project 0x00 Shell, basics
+#!/bin/bash
+echo "alx-system_engineering-devops"
