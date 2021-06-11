@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "alx-system_engineering-devops"
+Where am I
