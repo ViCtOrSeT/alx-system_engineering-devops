@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pm\n
+ls -amp
